@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 You can contact me anytime you want.
 My Gmail Address: crazyhealer1205@gmail.com
 My Skype Name: live:.cid.6861a70fd595d797
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Angular Badge](https://img.shields.io/badge/-Angular-F1DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=ff3333)](#) [![Vue.js Badge](https://img.shields.io/badge/-Vue-61DBFB?style=for-the-badge&labelColor=black&logo=vue&logoColor=61DBFF)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
