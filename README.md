@@ -68,3 +68,9 @@ My Skype Name: live:.cid.6861a70fd595d797
 ![Github stats](https://github-readme-stats.vercel.app/api?username=TomasJeffers)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasJeffers)](https://github.com/TomasJeffers)
+
+
+
+You can contact me anytime you want.
+My Gmail Address: crazyhealer1205@gmail.com
+My Skype Name: live:.cid.6861a70fd595d797
