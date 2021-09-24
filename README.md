@@ -35,9 +35,15 @@ Here are some ideas to get you started:
 - 🌱 But , because of COVID-19, I decided to be a freelancer
 - 👯 I 'vd developed many websites such as company management system site, house lending management site, petrol saling site and medicine site and so on.
 
+
+
 You can contact me anytime you want.
 My Gmail Address: crazyhealer1205@gmail.com
 My Skype Name: live:.cid.6861a70fd595d797
+
+
+
+
 
 <p align="left">
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
