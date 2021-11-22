@@ -1,4 +1,4 @@
-### Hi there 👋 I am Crazy Healer
+### Hi there 👋 I am Tomas Jefferson
 
 <p align="center" ><img 
  src="https://github.com/Forever78419/Forever78419/blob/main/back.jpg" width="100%"/></p>
