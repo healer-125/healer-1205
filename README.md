@@ -31,8 +31,7 @@ Here are some of my skills and what I can do:
 
 Here is some information about me:
 
-- 🔭 I’ve been working on Nirmata IT company until February
-- 🌱 But because of COVID-19, I decided to be a freelancer
+- 🔭 I’ve been working on Nirmata IT company until February 2021.
 - 👯 I have developed many websites such as a company management system site, house lending management site, petrol sailing site and medicine site and so on.
 
 
