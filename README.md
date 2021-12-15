@@ -1,4 +1,4 @@
-### Hi there 👋 I am Healer for web issues.
+### Hi there 👋 I am Healer, a senior fullstack developer.
 
 <p align="center" ><img 
  src="https://github.com/Forever78419/Forever78419/blob/main/back.jpg" width="100%"/></p>
@@ -8,11 +8,11 @@ Here are some of my skills and what I can do:
 - React frontend framework
 - Angular frontend framework
 - Vue.js frontend framework
-- Laravel php backend framework
-- Express backend framwork
-- node.js realtiem platform
-- And also basically knows HTML, CSS, Javascript, PHP, jQuery, Bootstrap, Material UI, W3css and so on.
-- Also good at React Native framework for mobile
+- Laravel PHP backend framework
+- Express backend framework
+- Node.js realtime platform
+- I also know HTML, CSS, Javascript, PHP, jQuery, Bootstrap, Material UI, W3css and so on.
+- I am also good at React Native framework for mobile
 
 <table style="border-size:0px">
   <tr >
@@ -31,8 +31,8 @@ Here are some of my skills and what I can do:
 
 Here is some information about me:
 
-- 🔭 I’ve been working on Nirmata IT company until February 2021.
-- 👯 I have developed many websites such as a company management system site, house lending management site, petrol sailing site and medicine site and so on.
+- 🔭 I’ve been working at Nirmata IT company until February 2021.
+- 👯 I have developed many websites, such as a company management system site, a house lending management site, a petrol sailing site, a medicine site and more.
 
 
 <p align="left">
@@ -62,5 +62,7 @@ Here is some information about me:
 
 
 You can contact me anytime you want.
+
 My Gmail Address: crazyhealer1205@gmail.com
+
 My Skype Name: live:.cid.6861a70fd595d797
