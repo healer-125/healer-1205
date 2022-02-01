@@ -13,6 +13,7 @@ Here are some of my skills and what I can do:
 - Node.js realtime platform
 - I also know HTML, CSS, Javascript, PHP, jQuery, Bootstrap, Material UI, W3css and so on.
 - I am also good at React Native framework for mobile
+- I am senior blockcahin (web3, solidity, solana, NFT) developer who has much experiences.
 
 <table style="border-size:0px">
   <tr >
