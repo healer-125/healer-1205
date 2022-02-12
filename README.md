@@ -1,4 +1,4 @@
-### Hi there 👋 I am Healer, a senior fullstack developer.
+### Hi there 👋 I am Thomas, a senior fullstack developer.
 
 <p align="center" ><img 
  src="https://github.com/Forever78419/Forever78419/blob/main/back.jpg" width="100%"/></p>
