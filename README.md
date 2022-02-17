@@ -56,9 +56,9 @@ Here is some information about me:
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=TomasJeffers)
+![Github stats](https://github-readme-stats.vercel.app/api?username=healer-1205)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasJeffers)](https://github.com/TomasJeffers)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-1205)](https://github.com/healer-1205)
 
 
 
