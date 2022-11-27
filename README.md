@@ -3,7 +3,7 @@
 <p align="center" ><img 
  src="https://github.com/Forever78419/Forever78419/blob/main/back.jpg" width="100%"/></p>
 
-I am a senior developer for web and mobile.
+I am a senior developer for web and blockchain.
 Here are some of my skills and what I can do:
 - React frontend framework
 - Angular frontend framework
