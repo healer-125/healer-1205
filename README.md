@@ -12,19 +12,6 @@ Here are some of my skills and what I can do:
 - I am also good at React Native framework for mobile
 - I am senior blockcahin (web3, solidity, solana, NFT) developer who has much experiences.
 
-<table style="border-size:0px">
-  <tr >
-      
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="90"> Node.js</td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="90"> React</td>    
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="90"> MySQL</td>            
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/visualstudio-1-1174964.png" width="90"> C/C++ </td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"> Go</td>   
-      <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="90"> Laravel </td>
-    <td style="border: none;"><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="60"> TypeScript</td>                        
-   </tr>
-  </table>
-
 
 Here is some information about me:
 
