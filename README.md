@@ -1,6 +1,7 @@
-### Hi there 👋 This is a senior fullstack developer.
+### Hi there 👋 This is a senior lead developer of <a href="https://mdlogbook.com/">MDLogBook</a>.
 
 I am a senior developer for web and blockchain.
+From the last year, I am working on MDLogBook as a lead developer.
 Here are some of my skills and what I can do:
 - React frontend framework
 - Angular frontend framework
