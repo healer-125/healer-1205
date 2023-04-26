@@ -1,4 +1,4 @@
-### Hi there 👋 This is a senior lead developer of <a href="https://mdlogbook.com/">MDLogBook</a>.
+## Hi there 👋 This is a senior lead developer of <a href="https://mdlogbook.com/">MDLogBook</a>.
 
 I am a senior developer for web and blockchain.
 I can build a mobile project with React Native.
@@ -17,7 +17,7 @@ Here are some of my skills and what I can do:
 
 Here is my portfolio website link:
 
-##<a href="https://panbo-portfolio.vercel.app/">Healer Portfolio</a>##
+### <a href="https://panbo-portfolio.vercel.app/">Healer Portfolio</a>
 
 
 <p align="left">
