@@ -1,6 +1,7 @@
 ### Hi there 👋 This is a senior lead developer of <a href="https://mdlogbook.com/">MDLogBook</a>.
 
 I am a senior developer for web and blockchain.
+I can build a mobile project with React Native.
 From the last year, I am working on MDLogBook as a lead developer.
 Here are some of my skills and what I can do:
 - React frontend framework
@@ -14,10 +15,9 @@ Here are some of my skills and what I can do:
 - I am senior blockcahin (web3, solidity, solana, NFT) developer who has much experiences.
 
 
-Here is some information about me:
+Here is my portfolio website link:
 
-- 🔭 I’ve been working at Nirmata IT company until February 2021.
-- 👯 I have developed many websites, such as a company management system site, a house lending management site, a petrol sailing site, a medicine site and more.
+<a href="https://panbo-portfolio.vercel.app/">Healer Portfolio</a>
 
 
 <p align="left">
