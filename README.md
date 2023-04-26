@@ -1,4 +1,4 @@
-## Hi there 👋 This is a senior lead developer of <a href="https://mdlogbook.com/">MDLogBook</a>.
+## Hi there 👋 This is a lead developer of <a href="https://mdlogbook.com/">MDLogBook</a>.
 
 I am a senior developer for web and blockchain.
 I can build a mobile project with React Native.
