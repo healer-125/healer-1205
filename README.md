@@ -35,11 +35,3 @@ Here are some of my skills and what I can do:
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 </p>
-
-
-
-You can contact me anytime you want.
-
-My Gmail Address: crazyhealer1205@gmail.com
-
-My Skype Name: live:.cid.6861a70fd595d797
