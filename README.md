@@ -15,10 +15,6 @@ Here are some of my skills and what I can do:
 - I am senior blockcahin (web3, solidity, solana, NFT) developer who has much experiences.
 
 
-Here is my portfolio website link:
-
-### <a href="https://panbo-portfolio.vercel.app/">Healer Portfolio</a>
-
 
 <p align="left">
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
