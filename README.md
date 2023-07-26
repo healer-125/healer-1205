@@ -7,6 +7,7 @@ Here are some of my skills and what I can do:
 - React frontend framework
 - Angular frontend framework
 - Vue.js frontend framework
+- Astro frontend framework
 - Laravel PHP backend framework
 - Express backend framework
 - Node.js realtime platform
