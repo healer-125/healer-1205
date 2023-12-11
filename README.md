@@ -1,19 +1,20 @@
-## Hi there 👋 This is a lead developer of <a href="https://mdlogbook.com/">MDLogBook</a>.
+## Hi there 👋 This is a lead developer of <a href="https://mdlogbook.com/">MDLogBook</a> and <a href="https://nabl.ai/">NABL</a>.
 
-I am a senior developer for web and blockchain.
+I am a senior AI/LLM developer with web and blockchain.
 I can build a mobile project with React Native.
-From the last year, I am working on MDLogBook as a lead developer.
+My focus is on AI/Web projects now.
 Here are some of my skills and what I can do:
+- AI/LLM with GPT/whisper
 - React frontend framework
 - Angular frontend framework
 - Vue.js frontend framework
 - Astro frontend framework
 - Laravel PHP backend framework
 - Express backend framework
-- Node.js realtime platform
+- Node.js real-time platform
 - I also know HTML, CSS, Javascript, PHP, jQuery, Bootstrap, Material UI, W3css and so on.
-- I am also good at React Native framework for mobile
-- I am senior blockcahin (web3, solidity, solana, NFT) developer who has much experiences.
+- I am also good at the React Native framework for mobile
+- I am a senior blockchain (web3, solidity, NFT) developer who has much experience.
 
 
 
