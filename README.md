@@ -4,7 +4,7 @@ I am a senior AI/LLM developer with web and blockchain.
 I can build a mobile project with React Native.
 My focus is on AI/Web projects now.
 Here are some of my skills and what I can do:
-- AI/LLM with GPT/whisper
+- AI/LLM with GPT/Whisper/HuggingFace/RunPod
 - React frontend framework
 - Angular frontend framework
 - Vue.js frontend framework
