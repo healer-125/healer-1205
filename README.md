@@ -1,6 +1,6 @@
 ## Hi there 👋 This is a lead developer of <a href="https://mdlogbook.com/">MDLogBook</a> and <a href="https://nabl.ai/">NABL</a>.
 
-I am a senior AI/LLM developer with web and blockchain.
+I am a senior Full Stack/AI/LLM developer with blockchain experience.
 I can build a mobile project with React Native.
 My focus is on AI/Web projects now.
 Here are some of my skills and what I can do:
