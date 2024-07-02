@@ -7,7 +7,7 @@ Here are some of my skills and what I can do:
 - AI/LLM with GPT/Whisper/HuggingFace/RunPod/Pytorch/Tensoflow
 - React/Angular/Vue.js frontend framework
 - Astro frontend framework
-- Python/Django framework
+- Python/Django/Flask framework
 - Laravel PHP backend framework
 - Express backend framework
 - Node.js real-time platform
