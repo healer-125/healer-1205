@@ -1,14 +1,13 @@
 ## Hi there 👋 This is a lead developer of <a href="https://mdlogbook.com/">MDLogBook</a> and <a href="https://nabl.ai/">NABL</a>.
 
-I am a Full Stack/AI/LLM developer with blockchain experience.
+I am a Full Stack/AI developer with blockchain experience.
 I can build a mobile project with React Native.
 My focus is on AI/Web projects now.
 Here are some of my skills and what I can do:
-- AI/LLM with GPT/Whisper/HuggingFace/RunPod
-- React frontend framework
-- Angular frontend framework
-- Vue.js frontend framework
+- AI/LLM with GPT/Whisper/HuggingFace/RunPod/Pytorch/Tensoflow
+- React/Angular/Vue.js frontend framework
 - Astro frontend framework
+- Python/Django framework
 - Laravel PHP backend framework
 - Express backend framework
 - Node.js real-time platform
