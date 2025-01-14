@@ -141,3 +141,57 @@ A big believer in:
 <!--   profile-green-animate -->
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="idimetrix" /></a>
+</p>
+
+   <!--machine-learning-->
+
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+```
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+<!-- New York - My Home-->
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.2591,
+              40.4774
+            ],
+            [
+              -73.7004,
+              40.9176
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
