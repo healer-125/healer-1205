@@ -140,4 +140,4 @@ Big believer in:
 
 <!--   profile-green-animate -->
 
-![](./idimetrix/profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
