@@ -1,4 +1,4 @@
-## Hi there 👋 This is a lead developer of <a href="https://mdlogbook.com/">MDLogBook</a> and <a href="https://nabl.ai/">NABL</a>.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I am a senior software developer.
 
 I am a Web/Blockchain/AI full-stack developer.
 I can build a mobile project with React Native.
@@ -14,7 +14,7 @@ Here are some of my skills and what I can do:
 - Node.js real-time platform
 - I also know HTML, CSS, Javascript, PHP, jQuery, Bootstrap, Material UI, W3css and so on.
 - I am also good at the React Native framework for mobile
-- I am a senior blockchain (web3, solidity, NFT) developer who has much experience.
+- I am a senior blockchain (web3, solidity, NFT) developer with a lot of experience.
 
 
 
