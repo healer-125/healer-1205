@@ -161,37 +161,3 @@ graph TD;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
 ```
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-<!-- New York - My Home-->
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -74.2591,
-              40.4774
-            ],
-            [
-              -73.7004,
-              40.9176
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
