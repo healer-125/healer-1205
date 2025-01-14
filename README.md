@@ -15,7 +15,7 @@ Welcome to my page; on my Github, you can find:
 
 ---
 
-#### With over 7 years of experience and 4+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
+#### With over 7 years of experience and 5+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
 
 <summary>Highlights / Proficiencies / Interests / Believes</summary>
 
@@ -53,7 +53,7 @@ Interests:
 - ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
 - ✔️ Sport (gym, padel tennis, crossfit): Engage in physical activities such as gym workouts, padel tennis, and crossfit, recognizing the importance of maintaining an active and healthy lifestyle to enhance productivity, focus, and overall well-being.
 
-Big believer in:
+A big believer in:
 
 - 💡 Power of continuous learning and personal growth
 - 💡 Importance of cultivating a positive mindset and embracing optimism
