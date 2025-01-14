@@ -3,8 +3,8 @@
 <p>
     <a href="https://github.com/healer-1205/healer-1205"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/healer-1205/healer-1205/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
-    <a href="https://github.com/healer-1205/healer-1205/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=healer-1205" alt="visitors"/>   
+    <a href="https://github.com/healer-1205/healer-1205/stargazers"><img src="https://img.shields.io/github/stars/healer-1205/healer-1205.svg?logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
 </p>
 
 I am a Web/Blockchain/AI full-stack developer.
