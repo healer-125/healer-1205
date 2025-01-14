@@ -21,7 +21,7 @@ Welcome to my page; on my Github, you can find:
 
 Highlights:
 
-- ⭐ total 7+ years of professional experience in full lifecycle development (web2/web3)
+- ⭐ total 7+ years of professional experience in full lifecycle development
 - ⭐ Delivered over 13+ projects
 - ⭐ Worked with over 4+ companies from startup to enterprise level
 - ⭐ Mentoring over 10+ individuals on how to grow their technical and leadership skills
