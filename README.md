@@ -3,41 +3,66 @@
 <p>
     <a href="https://github.com/healer-1205/healer-1205"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/healer-1205/healer-1205/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
-    <a href="https://github.com/healer-1205/healer-1205/stargazers"><img src="https://img.shields.io/github/stars/healer-1205/healer-1205.svg?logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
 </p>
 
-I am a Web/Blockchain/AI full-stack developer.
-I can build a mobile project with React Native.
-My focus is on AI/Blockchain projects now.
-Here are some of my skills and what I can do:
-- AI/LLM with GPT/Whisper/HuggingFace/RunPod/Pytorch/Tensoflow
-- Blockchain with Ethereum, Solana
-- React/Angular/Vue.js frontend framework
-- Astro frontend framework
-- Python/Django/Flask framework
-- Laravel PHP backend framework
-- Express backend framework
-- Node.js real-time platform
-- I also know HTML, CSS, Javascript, PHP, jQuery, Bootstrap, Material UI, W3css and so on.
-- I am also good at the React Native framework for mobile
-- I am a senior blockchain (web3, solidity, NFT) developer with a lot of experience.
+I am 🧙 Senior Full-Stack Software Engineer and 🏆 love Web development and AI solution
 
+Welcome to my page; on my Github, you can find:
 
+- Projects created by me
+- Projects contributed by me
 
-<p align="left">
-<a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
-<a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://www.python.org/" target="_blank"> <img src="https://dev.w3.org/SVG/tools/svgweb/samples/svg-files/python.svg" alt="reactnative" width="40" height="40"/> </a>
-</p>
+---
+
+#### With over 7 years of experience and 4+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
+
+<details>
+
+Highlights:
+
+- ⭐ 15+ years of professional experience in full lifecycle development (web2/web3)
+- ⭐ 7+ years of leadership positions (Technical Lead, Technical Architect, CTO/CEO)
+- ⭐ Delivered over 50+ projects
+- ⭐ Worked with over 25+ companies from startup to enterprise level
+- ⭐ Delivered over 50+ projects
+- ⭐ Mentoring over 150+ individuals on how to grow their technical and leadership skills
+- ⭐ Co-founder and co-creator of 5 Web2 and 3 Web3 projects
+- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
+- ⭐ Worked on innovative and cutting-edge projects
+- ⭐ Contribute to industry thought leadership
+- ⭐ Contribute to open source and private source
+- ⭐ Master new technologies, master computer science and mathematics
+
+Proficiencies:
+
+- 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
+- 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
+- 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
+- 📚 Angular, RxJS, NgRx
+- 📚 Svelte and Stencil + Storybook + Web Components
+- 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
+- 📚 AWS, Azure and GCP
+- 📚 Go lang, Move lang, Rust
+- 📚 HTML5/CSS3 + Canvas + WebGL + Animation
+- 📚 Agile, Scrum, Kanban
+- 📚 Web2/Web3 startups
+- 📚 Cryptography (cryptocurrency and blockchain)
+- 📚 Team Leadership
+- 📚 Project Leadership
+
+Interests:
+
+- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
+- ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
+- ✔️ Sport (gym, padel tennis, crossfit): Engage in physical activities such as gym workouts, padel tennis, and crossfit, recognizing the importance of maintaining an active and healthy lifestyle to enhance productivity, focus, and overall well-being.
+
+Big believer in:
+
+- 💡 Power of continuous learning and personal growth
+- 💡 Importance of cultivating a positive mindset and embracing optimism
+- 💡 Value of hard work and perseverance in achieving success
+- 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
+- 💡 Importance of ethical behavior and integrity in all aspects of life
+
+</details>
