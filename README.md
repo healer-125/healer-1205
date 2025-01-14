@@ -1,4 +1,11 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I am a senior software developer.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I am a senior software developer.
+
+<p>
+    <a href="https://github.com/healer-1205/healer-1205"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/healer-1205/healer-1205/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
+    <a href="https://github.com/healer-1205/healer-1205/stargazers"><img src="https://img.shields.io/github/stars/idimetrix/idimetrix.svg?logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=healer-1205" alt="visitors"/>   
+</p>
 
 I am a Web/Blockchain/AI full-stack developer.
 I can build a mobile project with React Native.
