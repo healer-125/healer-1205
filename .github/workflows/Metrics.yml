@@ -55,4 +55,3 @@ jobs:
           plugin_topics: yes # plugin for used topics
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          
