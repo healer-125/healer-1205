@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I am a senior software developer.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I am a senior software developer.
 
 I am a Web/Blockchain/AI full-stack developer.
 I can build a mobile project with React Native.
