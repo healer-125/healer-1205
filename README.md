@@ -44,7 +44,7 @@ Proficiencies:
 - 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
 - 📚 Svelte and Stencil + Storybook + Web Components
 - 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
-- 📚 AWS, Azure and GCP
+- 📚 AWS, Azure, GCP, Kubernetes, Docker, Nginx
 - 📚 Go lang, Python/Flask/Django/FastAPI
 - 📚 HTML5/CSS3 + Canvas + WebGL + Animation
 - 📚 Agile, Scrum, Kanban
