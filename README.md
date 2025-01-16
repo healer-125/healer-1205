@@ -15,6 +15,12 @@ Welcome to my page; on my Github, you can find:
 
 ---
 
+### Profile Views
+
+![](https://count.getloli.com/get/@idimetrix.github.readme)
+
+---
+
 #### With over 7 years of experience and 5+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
 
 <summary>Highlights / Proficiencies / Interests / Believes</summary>
@@ -161,7 +167,3 @@ graph TD;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
 ```
-
-### Profile Views
-
-![](https://count.getloli.com/get/@idimetrix.github.readme)
