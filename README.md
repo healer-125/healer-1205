@@ -38,7 +38,7 @@ Highlights:
 
 Proficiencies:
 
-- 📚 OpenAI, ChatGPT, WhisperX, RunPod, HuggingFace, Ollama, Pytorch, Tensoflow
+- 📚 OpenAI, ChatGPT, WhisperX, RunPod, HuggingFace, Ollama, Pytorch, Tensorflow
 - 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
 - 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
 - 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
