@@ -6,7 +6,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
 </p>
 Contact me: crazyhealer1205@gmail.com
-
+<br />
 
 I am 🧙 Senior Full-Stack Software Engineer and 🏆 love Web development and AI solution
 
