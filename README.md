@@ -5,6 +5,7 @@
     <a href="https://github.com/healer-1205/healer-1205/graphs/contributors"><img src="https://img.shields.io/github/contributors/idimetrix/idimetrix?color=blue"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=idimetrix" alt="visitors"/>   
 </p>
+Contact me: crazyhealer1205@gmail.com
 
 I am 🧙 Senior Full-Stack Software Engineer and 🏆 love Web development and AI solution
 
