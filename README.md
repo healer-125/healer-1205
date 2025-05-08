@@ -12,51 +12,7 @@
 
 ![](https://count.getloli.com/get/@idimetrix.github.readme)
 
-#### With over 8 years of experience, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
 
-<summary>Highlights / Proficiencies / Interests / Believes</summary>
-
-Highlights:
-
-- ⭐ total 8+ years of professional experience in full lifecycle development
-- ⭐ Delivered over 13+ projects
-- ⭐ Worked with over 4+ companies from startup to enterprise level
-- ⭐ Mentoring over 10+ individuals on how to grow their technical and leadership skills
-- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
-- ⭐ Worked on innovative and cutting-edge projects
-- ⭐ Contribute to industry thought leadership
-- ⭐ Master new technologies, master computer science and mathematics
-
-Proficiencies:
-
-- 📚 OpenAI, GPT, LangChain, LangGraph, RunPod, HuggingFace, Ollama, Pytorch, Tensorflow
-- 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
-- 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
-- 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
-- 📚 Svelte and Stencil + Storybook + Web Components
-- 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
-- 📚 AWS, Azure, GCP, Kubernetes, Docker, Nginx
-- 📚 Go lang, Python/Flask/Django/FastAPI
-- 📚 HTML5/CSS3 + Canvas + WebGL + Animation
-- 📚 Agile, Scrum, Kanban
-- 📚 Web2/Web3 startups
-- 📚 Cryptography (cryptocurrency and blockchain)
-- 📚 Team Leadership
-- 📚 Project Leadership
-
-Interests:
-
-- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
-- ✔️ Family: Place great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
-- ✔️ Sport (gym, padel tennis, crossfit): Engage in physical activities such as gym workouts, padel tennis, and crossfit, recognizing the importance of maintaining an active and healthy lifestyle to enhance productivity, focus, and overall well-being.
-
-A big believer in:
-
-- 💡 Power of continuous learning and personal growth
-- 💡 Importance of cultivating a positive mindset and embracing optimism
-- 💡 Value of hard work and perseverance in achieving success
-- 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
-- 💡 Importance of ethical behavior and integrity in all aspects of life
 
 ## 🥇 Primary technology stack
 
@@ -65,7 +21,6 @@ A big believer in:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
@@ -95,7 +50,8 @@ A big believer in:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -109,9 +65,8 @@ A big believer in:
 ## 🥈 Secondary technology stack
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)
