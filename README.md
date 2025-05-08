@@ -8,15 +8,6 @@
 <p> Contact me: <a href="mailto:crazyhealer1205@gmail.com">crazyhealer1205@gmail.com </a> </p>
 <br />
 
-I am 🧙 Senior Full-Stack Software Engineer and 🏆 love Web development and AI solution
-
-Welcome to my page; on my Github, you can find:
-
-- Projects created by me
-- Projects contributed by me
-
----
-
 ### Profile Views
 
 ![](https://count.getloli.com/get/@idimetrix.github.readme)
