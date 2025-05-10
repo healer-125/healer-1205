@@ -1,6 +1,6 @@
 # AI first developer
 
-## <p> Contact me: <a href="mailto:crazyhealer1205@gmail.com">crazyhealer1205@gmail.com </a> </p>
+### <p> Contact me: <a href="mailto:crazyhealer1205@gmail.com">crazyhealer1205@gmail.com </a> </p>
 
 ### Profile Views
 
