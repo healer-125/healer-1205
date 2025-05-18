@@ -1,6 +1,6 @@
-# ---**AI first developer**---
+# ---**AI Specialist**---
 
-** <p> Contact me: <a href="mailto:crazyhealer1205@gmail.com">crazyhealer1205@gmail.com </a> </p> **
+**Contact me: <a href="mailto:crazyhealer1205@gmail.com">crazyhealer1205@gmail.com </a>**
 ### LangChain(LangGraph, LangSmith)/HuggingFace/RunPod, MCP, Ollama, LLM(Sonnet/Anthropic, GPT/OpenAI), Zapier/N8N automation, AI agent specialist
 
 ### Profile Views
