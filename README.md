@@ -24,7 +24,7 @@ Highlights:
 
 Proficiencies:
 
-- 📚 OpenAI, GPT, LangChain, LangGraph, RunPod, HuggingFace, Ollama, Pytorch, Tensorflow
+- 📚 OpenAI, GPT, LangChain, LangGraph, LangSmith, RunPod, HuggingFace, Ollama, Pytorch, Tensorflow, MCP (Model Context Protocol)
 - 📚 JavaScript, TypeScript, Node.js with Serverless and Containers, and Microservices architecture
 - 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
 - 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
