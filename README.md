@@ -5,7 +5,7 @@
 
 ### Profile Views
 
-![](https://count.getloli.com/get/@idimetrix.github.readme)
+![](https://count.getloli.com/get/@healer-1205.github.readme)
 
 #### With over 8 years of experience, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
 
