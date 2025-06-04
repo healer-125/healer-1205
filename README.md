@@ -1,10 +1,10 @@
 # ⭐ **AI & Web Specialist** ⭐
 
 **Contact me: <a href="mailto:crazyhealer1205@gmail.com">crazyhealer1205@gmail.com </a>**
-### AI Skills
+## AI Skills
 LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthropic, GPT/OpenAI), Zapier/N8N automation, AI agent specialist
 
-### Profile Views
+## Profile Views
 
 ![](https://count.getloli.com/get/@healer-1205.github.readme)
 
