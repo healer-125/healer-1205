@@ -1,7 +1,8 @@
 # ⭐ **AI & Web Specialist** ⭐
 
 **Contact me: <a href="mailto:crazyhealer1205@gmail.com">crazyhealer1205@gmail.com </a>**
-### LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthropic, GPT/OpenAI), Zapier/N8N automation, AI agent specialist
+### AI Skills
+LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthropic, GPT/OpenAI), Zapier/N8N automation, AI agent specialist
 
 ### Profile Views
 
