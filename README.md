@@ -13,7 +13,7 @@
 </a>
 
 ## AI Skills
-LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthropic, GPT/OpenAI), Zapier/N8N automation, AI agent specialist
+LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthropic, GPT/OpenAI), Computer Vision, RAG, GenAI, Kaggle, Zapier/N8N automation, AI agent specialist
 
 ## Profile Views
 
