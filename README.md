@@ -187,7 +187,7 @@ A big believer in:
 
 <!--   stats + languages -->
 
-| .                                                                                                                                                 | .                                                                                                                              |
+| GitHub Stats                                                                                                                                                 | Languages                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![healer's github stats](https://github-readme-stats.vercel.app/api?username=healer-1205&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-1205&theme=radical&layout=compact) |
 
