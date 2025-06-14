@@ -75,7 +75,7 @@ LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthr
 Highlights:
 
 - ⭐ total 8+ years of professional experience in full lifecycle development
-- ⭐ Delivered over 16+ projects
+- ⭐ Delivered over 21+ projects
 - ⭐ Worked with over 4+ companies from startup to enterprise level
 - ⭐ Mentoring over 10+ individuals on how to grow their technical and leadership skills
 - ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
