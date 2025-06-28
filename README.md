@@ -63,6 +63,7 @@ LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthr
 <a href="https://github.com/Wendel-Andrade"><img src="https://github.com/Wendel-Andrade.png?size=96" alt="Wendel-Andrade" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/zacBkh"><img src="https://github.com/zacBkh.png?size=96" alt="zacBkh" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/jackdev77777"><img src="https://github.com/jackdev77777.png?size=96" alt="zacBkh" width="96px" height="96px" style="max-width: 100%;"></a>
+<a href="https://github.com/Pekelo-Seeha"><img src="https://github.com/Pekelo-Seeha.png?size=96" alt="zacBkh" width="96px" height="96px" style="max-width: 100%;"></a>
 
 </p>
 
