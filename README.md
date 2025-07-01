@@ -18,10 +18,10 @@
 | ![healer's github stats](https://github-readme-stats.vercel.app/api?username=healer-1205&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-1205&theme=radical&layout=compact) |
 
 <div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
+<p>Trophy: Github Profile Trophy</p>
 </div>
 
-<p align="center"> 
+<p> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="idimetrix" /></a>
 </p>
 
