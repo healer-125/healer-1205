@@ -13,13 +13,17 @@
 </a>
 
 <!--   stats + languages -->
-<div align="center">
-<p>GitHub Stats and Languages</p>
-</div>
+## GitHub Stats and Languages
+
+<!--  <div align="center">  -->
+<!-- <p>GitHub Stats and Languages</p> -->
+<!-- </div> -->
 
 | GitHub Stats                                                                                                                                                 | Languages                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![healer's github stats](https://github-readme-stats.vercel.app/api?username=healer-1205&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-1205&theme=radical&layout=compact) |
+
+## GitHub Stats and Languages
 
 <div align="center">
 <p>Trophy: Github Profile Trophy</p>
