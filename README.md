@@ -13,6 +13,10 @@
 </a>
 
 <!--   stats + languages -->
+<div align="center">
+<p>GitHub Stats and Languages</p>
+</div>
+
 | GitHub Stats                                                                                                                                                 | Languages                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![healer's github stats](https://github-readme-stats.vercel.app/api?username=healer-1205&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-1205&theme=radical&layout=compact) |
@@ -21,7 +25,7 @@
 <p>Trophy: Github Profile Trophy</p>
 </div>
 
-<p> 
+<p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="idimetrix" /></a>
 </p>
 
