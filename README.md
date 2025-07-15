@@ -30,7 +30,7 @@
 <!-- </div> -->
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix" alt="idimetrix" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix&theme=onestar&no-frame=true" alt="idimetrix" /></a>
 </p>
 
 ## Profile Views
