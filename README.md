@@ -1,6 +1,6 @@
 # ⭐ **AI & Web Specialist** ⭐
 
-
+<br>
 
 ## Contact me
 
@@ -104,6 +104,9 @@ LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthr
 
 </p>
 
+<br>
+<br>
+
 ## Overview
 
 #### With over 8 years of experience, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
@@ -153,6 +156,9 @@ A big believer in:
 - 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
 - 💡 Importance of ethical behavior and integrity in all aspects of life
 
+<br>
+<br>
+
 ## 🥇 Primary technology stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -201,6 +207,9 @@ A big believer in:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
+<br>
+<br>
+
 ## 🥈 Secondary technology stack
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -216,8 +225,10 @@ A big believer in:
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 
+<br>
+<br>
 
-### 📈 GitHub Activity Graph:
+## 📈 GitHub Activity Graph:
 
 <!--   green snake -->
 
