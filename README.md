@@ -14,7 +14,8 @@
    <img src="https://camo.githubusercontent.com/1d9cf97aa7f0e5bdae8226067d547108f9cb102c505f7c7994b6749de55b7aff/68747470733a2f2f696d672e69636f6e73382e636f6d2f3f73697a653d3130302669643d7a5139324b4937586a5a675226666f726d61743d706e6726636f6c6f723d303030303030" width="50" data-canonical-src="https://img.icons8.com/?size=100&amp;id=zQ92KI7XjZgR&amp;format=png&amp;color=000000" style="max-width: 100%;">
 </a>
 
-
+<br>
+<br>
 
 <!--   stats + languages -->
 ## GitHub Stats and Languages
@@ -27,7 +28,8 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | ![healer's github stats](https://github-readme-stats.vercel.app/api?username=healer-1205&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-1205&theme=radical&layout=compact) |
 
-
+<br>
+<br>
 
 ## Trophy: Github Profile Trophy
 
@@ -39,16 +41,21 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix&theme=onestar&no-frame=true" alt="idimetrix" /></a>
 </p>
 
+<br>
+<br>
+
 ## Profile Views
 
 ![](https://count.getloli.com/get/@healer-1205.github.readme)
 
-
+<br>
+<br>
 
 ## AI Skills
 LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthropic, GPT/OpenAI), Computer Vision, RAG, GenAI, Kaggle, Zapier/N8N automation, AI agent specialist, MCP(Model Context Protocol)
 
-
+<br>
+<br>
 
 ## Recommended By:
 
