@@ -1,6 +1,5 @@
 # ⭐ **AI & Web Specialist** ⭐
 
-<br>
 
 ## Contact me
 
