@@ -1,12 +1,10 @@
 # ⭐ **AI & Web Specialist** ⭐
 
+## Contact me
 
-
-
-<!--
 <a href="mailto:crazyhealer1205@gmail.com">
    <img src="https://camo.githubusercontent.com/7625fb2f936160a789b29a32fa800fb8d0d4318b04765c428e9861e4d8191503/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f676d61696c2d6e65772e706e67" width="50" data-canonical-src="https://img.icons8.com/fluency/2x/gmail-new.png" style="max-width: 100%;">
-</a> -->
+</a>
 <!-- <a href="https://t.me/healer_1205" rel="nofollow">
    <img src="https://camo.githubusercontent.com/777e4f30947c063a43f1eaacb5140e5f295302e61713fb842f634383788e0882/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f74656c656772616d2d6170702e706e67" width="50" data-canonical-src="https://img.icons8.com/color/2x/telegram-app.png" style="max-width: 100%;">
 </a> -->
