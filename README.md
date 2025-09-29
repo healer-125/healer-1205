@@ -2,10 +2,10 @@
 
 ## Contact me
 
-<a href="mailto:crazyhealer1205@gmail.com">
+<a href="mailto:crazyhealer125@gmail.com">
    <img src="https://camo.githubusercontent.com/7625fb2f936160a789b29a32fa800fb8d0d4318b04765c428e9861e4d8191503/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f32782f676d61696c2d6e65772e706e67" width="50" data-canonical-src="https://img.icons8.com/fluency/2x/gmail-new.png" style="max-width: 100%;">
 </a>
-<!-- <a href="https://t.me/healer_1205" rel="nofollow">
+<!-- <a href="https://t.me/healer_125" rel="nofollow">
    <img src="https://camo.githubusercontent.com/777e4f30947c063a43f1eaacb5140e5f295302e61713fb842f634383788e0882/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f32782f74656c656772616d2d6170702e706e67" width="50" data-canonical-src="https://img.icons8.com/color/2x/telegram-app.png" style="max-width: 100%;">
 </a> -->
 <a href="https://teams.live.com/l/invite/FEAdZwx4Y5p0_gKpRI" rel="nofollow">
@@ -24,7 +24,7 @@
 
 | GitHub Stats                                                                                                                                                 | Languages                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![healer's github stats](https://github-readme-stats.vercel.app/api?username=healer-1205&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-1205&theme=radical&layout=compact) |
+| ![healer's github stats](https://github-readme-stats.vercel.app/api?username=healer-125&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-125&theme=radical&layout=compact) |
 
 <br>
 <br>
@@ -44,7 +44,7 @@
 
 ## Profile Views
 
-![](https://count.getloli.com/get/@healer-1205.github.readme)
+![](https://count.getloli.com/get/@healer-125.github.readme)
 
 <br>
 <br>
