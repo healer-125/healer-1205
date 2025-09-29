@@ -97,7 +97,6 @@ LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthr
 <a href="https://github.com/vagnereis"><img src="https://github.com/vagnereis.png?size=96" alt="vagnereis" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/vngabriel"><img src="https://github.com/vngabriel.png?size=96" alt="vngabriel" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/Wendel-Andrade"><img src="https://github.com/Wendel-Andrade.png?size=96" alt="Wendel-Andrade" width="96px" height="96px" style="max-width: 100%;"></a>
-<a href="https://github.com/jackdev77777"><img src="https://github.com/jackdev77777.png?size=96" alt="jackdev77777" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/Orbiiit-minder"><img src="https://github.com/Orbiiit-minder.png?size=96" alt="minder" width="96px" height="96px" style="max-width: 100%;"></a>
 
 </p>
